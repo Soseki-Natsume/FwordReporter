@@ -6,6 +6,7 @@ Discord Bot
 
 ## 使用技術
 - Java 21
+- Gradle 8.6
 - [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)
 - [Jackson（JSON処理）](https://github.com/FasterXML/jackson)
 - dotenv-java（環境変数管理）
