@@ -44,3 +44,6 @@ TOKEN=your_token
 ```
 
 3,4は各自IDEからビルド、実行を行ってもよい
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
