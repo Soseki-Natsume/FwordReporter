@@ -1,0 +1,23 @@
+# Git
+.git/
+.gitignore
+
+# Gradle
+build/
+.gradle/
+
+# IDE
+*.iml
+.idea/
+.settings/
+bin/
+
+# OS
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# 環境変数
+.env
