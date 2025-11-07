@@ -46,7 +46,7 @@ TOKEN=your_token
 ./gradlew run
 ```
 
-5．FwordReport
+5. FwordReport
 Discordのメッセージ中にFwordがあった場合に以下のように知らせてくれる。
 ```
 メッセージ：心ばかりの品ですが…
