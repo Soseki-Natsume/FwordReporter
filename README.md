@@ -2,14 +2,14 @@
 # Fword Reporter 
 Discord Bot
 ユーザーの発言中に禁止用語を含む場合、ブブゥーーーーーー!!!!!!!と発し(無音、メッセージのみ)含まれていた禁止用語を教えてくれる。
-元ネタはゲーム『ウーマンコミュニケーション』(元ネタの明記でありステルスマーケティング等のプロモーションではない)
+元ネタはとあるゲーム。
 
 ## 使用技術
 - Java 21
 - Gradle 8.6
 - [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)
 - [Jackson（JSON処理）](https://github.com/FasterXML/jackson)
-- dotenv-java（環境変数管理）
+- dotenv-java
 
 
 ## 使い方
@@ -42,8 +42,6 @@ TOKEN=your_token
 ```bash
 ./gradlew run
 ```
-
-3,4は各自IDEからビルド、実行を行ってもよい
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
