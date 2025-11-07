@@ -54,5 +54,9 @@ Discordのメッセージ中にFwordがあった場合に以下のように知�
 ばか
 ```
 
+## 想定する使い方
+NGワードゲームなどにお使いください。  
+なお、Discordのサーバー内で使ってほしくない言葉がある場合は、Discordの標準機能にキーワードフィルターというものがあるそうなのでそちらをご参照ください。  
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
