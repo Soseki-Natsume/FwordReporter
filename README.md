@@ -11,7 +11,11 @@ Discord Bot
 - [Jackson（JSON処理）](https://github.com/FasterXML/jackson)
 - dotenv-java
 
-
+## 注意点
+- 漢字には未対応
+- カタカナには対応
+- 記号や句読点は除去して判断する
+  
 ## 使い方
 
 1. `.envファイル`を作成し、あなたのDiscord Bot のトークンを記述
@@ -41,6 +45,14 @@ TOKEN=your_token
 
 ```bash
 ./gradlew run
+```
+
+5.FwordReport
+Discordのメッセージ中にFwordがあった場合に以下のように知らせてくれる。
+```
+メッセージ：心ばかりの品ですが…
+ブブゥーーーーーー!!!!!!!
+ばか
 ```
 
 ## License
