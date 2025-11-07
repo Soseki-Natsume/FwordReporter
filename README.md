@@ -17,7 +17,6 @@ Discord Bot
 - 記号や句読点は除去して判断する
   
 ## 使い方
-
 1. `.envファイル`を作成し、あなたのDiscord Bot のトークンを記述
 
 ```
@@ -47,7 +46,7 @@ TOKEN=your_token
 ./gradlew run
 ```
 
-5.FwordReport
+5．FwordReport
 Discordのメッセージ中にFwordがあった場合に以下のように知らせてくれる。
 ```
 メッセージ：心ばかりの品ですが…
